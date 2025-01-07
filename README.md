@@ -47,3 +47,25 @@ The script includes visualizations:
 - Seasonal decomposition for a specific SKU-Warehouse pair.
 - Comparison of actual and forecasted sales for one SKU-Warehouse pair.
 
+
+### 4. **Accuracy Calculation Script**
+A separate script calculates the average MAPE across all SKU-Warehouse pairs and the model accuracy:
+python
+import pandas as pd
+
+# Load the model error data from 'Model_Errors.csv'
+error_df = pd.read_csv('Model_Errors.csv')
+
+# Check if 'Error (MAPE)' column exists in the DataFrame
+if 'Error (MAPE)' in error_df.columns:
+    # Calculate the average MAPE
+    average_mape = error_df['Error (MAPE)'].mean()
+
+    # Calculate Accuracy
+    accuracy = 100 - average_mape
+
+    # Display MAPE and Accuracy
+    print(f"Average MAPE: {average_mape:.2f}%")
+    print(f"Accuracy: {accuracy:.2f}%")
+else:
+    print("Error: 'Error (MAPE)' column not found in the 'Model_Errors.csv' file.")
