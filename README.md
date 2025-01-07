@@ -69,3 +69,38 @@ if 'Error (MAPE)' in error_df.columns:
     print(f"Accuracy: {accuracy:.2f}%")
 else:
     print("Error: 'Error (MAPE)' column not found in the 'Model_Errors.csv' file.")
+
+  
+### 5. **Installation and Usage**
+Prerequisites <br/>
+* Python 3.8 or higher<br/>
+
+Required Python libraries:<br/>
+* pandas<br/>
+* numpy<br/>
+* matplotlib<br/>
+* seaborn<br/>
+* statsmodels<br/>
+* scikit-learn<br/>
+
+### 6. Code Highlights
+* Forecasting Methodology<br/>
+* The SARIMA model is used for time series forecasting with seasonal adjustments.<br/>
+* Training data includes all sales up to May 2021.<br/>
+* Predictions are made for June 2021.<br/>
+
+
+### 7. Results
+* Forecasts: The predicted sales for June 2021 are saved in Submission.csv. <br/>
+* Model Performance: The average MAPE and accuracy are calculated using the script provided. <br/>
+
+### 8. Results
+* Forecasts: The predicted sales for June 2021 are saved in Submission.csv. <br/>
+* Model Performance: The average MAPE and accuracy are calculated using the script provided.<br/>
+
+
+### 9. Future Improvements
+* Include hyperparameter tuning for SARIMA to optimize model performance. <br/>
+* Automate data validation for missing or incorrect values.<br/>
+* Add support for forecasting multiple future periods.<br/>
+* Integrate an interactive dashboard for visualizing forecasts and errors.<br/>
