@@ -1,0 +1,1633 @@
+Warehouse id,SKU id,MAPE,Details
+Wh-1,SKU-1,0.8216522994047338,Forecast successful
+Wh-1,SKU-10,2.7025964852085065,Forecast successful
+Wh-1,SKU-100,7.613077278898937,Forecast successful
+Wh-1,SKU-101,0.4629890959169762,Forecast successful
+Wh-1,SKU-102,0.24212506001453785,Forecast successful
+Wh-1,SKU-103,1.8034865798134534,Forecast successful
+Wh-1,SKU-104,2.4849363180973145,Forecast successful
+Wh-1,SKU-105,0.6534077147531825,Forecast successful
+Wh-1,SKU-106,58.90696836640755,Forecast successful
+Wh-1,SKU-107,2.814709807937202,Forecast successful
+Wh-1,SKU-108,1.3255679381647694,Forecast successful
+Wh-1,SKU-109,3.532368619616715,Forecast successful
+Wh-1,SKU-11,0.2660414663554489,Forecast successful
+Wh-1,SKU-110,10.175492959021701,Forecast successful
+Wh-1,SKU-111,5.943404955136773,Forecast successful
+Wh-1,SKU-112,1.6453654255030046,Forecast successful
+Wh-1,SKU-113,6.022525831029191,Forecast successful
+Wh-1,SKU-114,3.1263199633247827,Forecast successful
+Wh-1,SKU-115,0.9929065825619476,Forecast successful
+Wh-1,SKU-116,0.4837473234739946,Forecast successful
+Wh-1,SKU-117,7.4292567224063015,Forecast successful
+Wh-1,SKU-118,0.20490578745326465,Forecast successful
+Wh-1,SKU-119,0.5959587649176696,Forecast successful
+Wh-1,SKU-12,8.302617601492614,Forecast successful
+Wh-1,SKU-120,3.9083034199060753,Forecast successful
+Wh-1,SKU-121,5.312981611351377,Forecast successful
+Wh-1,SKU-122,1.4003731105253558,Forecast successful
+Wh-1,SKU-123,7.794944178531399,Forecast successful
+Wh-1,SKU-124,6.980074705918639,Forecast successful
+Wh-1,SKU-125,2.591040492145028,Forecast successful
+Wh-1,SKU-126,2.0942614386546548,Forecast successful
+Wh-1,SKU-127,3.209195949877316,Forecast successful
+Wh-1,SKU-128,4.61670301670198,Forecast successful
+Wh-1,SKU-129,1.4172210927999351,Forecast successful
+Wh-1,SKU-13,35.976271507674774,Forecast successful
+Wh-1,SKU-130,3.7591497991933323,Forecast successful
+Wh-1,SKU-131,6.23692138438865,Forecast successful
+Wh-1,SKU-132,2.351961184360321,Forecast successful
+Wh-1,SKU-133,3.9160759524312896,Forecast successful
+Wh-1,SKU-134,2.691262146491639,Forecast successful
+Wh-1,SKU-135,3.216155903450886,Forecast successful
+Wh-1,SKU-136,3.705389911329499,Forecast successful
+Wh-1,SKU-137,4.594476836563266,Forecast successful
+Wh-1,SKU-138,3.654934167057768,Forecast successful
+Wh-1,SKU-139,1.9446550397453952,Forecast successful
+Wh-1,SKU-14,18.873691974864368,Forecast successful
+Wh-1,SKU-140,3.3694694870730153,Forecast successful
+Wh-1,SKU-141,4.852794226584697,Forecast successful
+Wh-1,SKU-142,1.7615375896983214,Forecast successful
+Wh-1,SKU-143,3.1049984553825074,Forecast successful
+Wh-1,SKU-144,1.4731191328257278,Forecast successful
+Wh-1,SKU-145,14.487426956158302,Forecast successful
+Wh-1,SKU-146,12.882546008244281,Forecast successful
+Wh-1,SKU-147,13.509763264414824,Forecast successful
+Wh-1,SKU-148,15.707718852565282,Forecast successful
+Wh-1,SKU-149,2.0856115217360736,Forecast successful
+Wh-1,SKU-15,0.44309534578031745,Forecast successful
+Wh-1,SKU-150,4.852120303080384,Forecast successful
+Wh-1,SKU-151,11.486209095577411,Forecast successful
+Wh-1,SKU-152,11.18117410676497,Forecast successful
+Wh-1,SKU-153,5.424348202765465,Forecast successful
+Wh-1,SKU-154,1.206026109089842,Forecast successful
+Wh-1,SKU-155,1.373966915515766,Forecast successful
+Wh-1,SKU-156,0.10273383485767291,Forecast successful
+Wh-1,SKU-157,2.868657026260277,Forecast successful
+Wh-1,SKU-158,1.243956748984173,Forecast successful
+Wh-1,SKU-159,9.862327549558993,Forecast successful
+Wh-1,SKU-16,2.684573738052031,Forecast successful
+Wh-1,SKU-160,7.866790712406851,Forecast successful
+Wh-1,SKU-161,1.9249314797746306,Forecast successful
+Wh-1,SKU-162,0.10117592491590541,Forecast successful
+Wh-1,SKU-163,0.13544916955233802,Forecast successful
+Wh-1,SKU-164,0.0926447231929767,Forecast successful
+Wh-1,SKU-165,8.520834276657212,Forecast successful
+Wh-1,SKU-166,1.7342506545359004,Forecast successful
+Wh-1,SKU-167,2.8309128321042767,Forecast successful
+Wh-1,SKU-168,3.2049007466263375,Forecast successful
+Wh-1,SKU-169,0.3538792425664912,Forecast successful
+Wh-1,SKU-17,311.6775402508515,Forecast successful
+Wh-1,SKU-170,0.43081818025463575,Forecast successful
+Wh-1,SKU-171,0.2057745106961822,Forecast successful
+Wh-1,SKU-172,0.04388397869293992,Forecast successful
+Wh-1,SKU-173,1.6149752800165658,Forecast successful
+Wh-1,SKU-174,0.17574333813256046,Forecast successful
+Wh-1,SKU-175,1.1183784418397942,Forecast successful
+Wh-1,SKU-176,0.04388397869293992,Forecast successful
+Wh-1,SKU-177,0.42341710651058334,Forecast successful
+Wh-1,SKU-178,0.24587488169046398,Forecast successful
+Wh-1,SKU-179,0.16935537829224323,Forecast successful
+Wh-1,SKU-18,5.575467566972473,Forecast successful
+Wh-1,SKU-180,0.7794498360331866,Forecast successful
+Wh-1,SKU-181,0.22003818762563468,Forecast successful
+Wh-1,SKU-182,5.967637289271522,Forecast successful
+Wh-1,SKU-183,0.46824019189025445,Forecast successful
+Wh-1,SKU-184,0.11219209075255007,Forecast successful
+Wh-1,SKU-185,1.8315127248750183,Forecast successful
+Wh-1,SKU-186,1.6803577017122677,Forecast successful
+Wh-1,SKU-187,0.07405190900962068,Forecast successful
+Wh-1,SKU-188,0.7589838273735457,Forecast successful
+Wh-1,SKU-189,0.7786463172497022,Forecast successful
+Wh-1,SKU-19,0.3559996430542814,Forecast successful
+Wh-1,SKU-190,3.430222858677535,Forecast successful
+Wh-1,SKU-191,0.34039360202071345,Forecast successful
+Wh-1,SKU-192,0.3259008163021595,Forecast successful
+Wh-1,SKU-193,0.5730383270750763,Forecast successful
+Wh-1,SKU-194,3.4604617477764763,Forecast successful
+Wh-1,SKU-195,0.2098601496844947,Forecast successful
+Wh-1,SKU-196,7.129075585324872,Forecast successful
+Wh-1,SKU-197,0.3971377675183363,Forecast successful
+Wh-1,SKU-198,0.7073254916208309,Forecast successful
+Wh-1,SKU-199,9.53360404551181,Forecast successful
+Wh-1,SKU-2,1.4740091194778115,Forecast successful
+Wh-1,SKU-20,1.4713247359813495,Forecast successful
+Wh-1,SKU-200,0.23717433360121043,Forecast successful
+Wh-1,SKU-201,0.167033071719681,Forecast successful
+Wh-1,SKU-202,0.20359925070544604,Forecast successful
+Wh-1,SKU-203,0.6045480883371689,Forecast successful
+Wh-1,SKU-204,0.24521553337080904,Forecast successful
+Wh-1,SKU-205,1.2549992000236319,Forecast successful
+Wh-1,SKU-206,69.40308959165465,Forecast successful
+Wh-1,SKU-207,5.396646897277201,Forecast successful
+Wh-1,SKU-208,0.09101196802176803,Forecast successful
+Wh-1,SKU-209,2.6083690936577497,Forecast successful
+Wh-1,SKU-21,0.5926818903521435,Forecast successful
+Wh-1,SKU-210,0.828727522667234,Forecast successful
+Wh-1,SKU-211,6.394971009994012,Forecast successful
+Wh-1,SKU-212,1.1547583349941821,Forecast successful
+Wh-1,SKU-213,1.7134255807781724,Forecast successful
+Wh-1,SKU-214,4.337236111392773,Forecast successful
+Wh-1,SKU-215,3.742972738267299,Forecast successful
+Wh-1,SKU-216,0.6065165380356717,Forecast successful
+Wh-1,SKU-217,1.0775976481611291,Forecast successful
+Wh-1,SKU-218,0.7178532413839015,Forecast successful
+Wh-1,SKU-219,0.5605412063064911,Forecast successful
+Wh-1,SKU-22,0.6427571425134954,Forecast successful
+Wh-1,SKU-220,1.4177522404225227,Forecast successful
+Wh-1,SKU-221,2.573769048702022,Forecast successful
+Wh-1,SKU-222,2.5224729076300023,Forecast successful
+Wh-1,SKU-223,1.75044341867229,Forecast successful
+Wh-1,SKU-224,5.92452064342825,Forecast successful
+Wh-1,SKU-225,13.064235417108964,Forecast successful
+Wh-1,SKU-226,1.8704492334742249,Forecast successful
+Wh-1,SKU-227,0.24744250287048403,Forecast successful
+Wh-1,SKU-228,0.7330474478679524,Forecast successful
+Wh-1,SKU-229,2.3468248661118225,Forecast successful
+Wh-1,SKU-23,1.3932158007408026,Forecast successful
+Wh-1,SKU-230,17.61794221085381,Forecast successful
+Wh-1,SKU-231,0.5170088562768678,Forecast successful
+Wh-1,SKU-232,3.1960937675065715,Forecast successful
+Wh-1,SKU-233,1.8826540815068327,Forecast successful
+Wh-1,SKU-24,0.5017879816696741,Forecast successful
+Wh-1,SKU-25,3.3919841769668326,Forecast successful
+Wh-1,SKU-26,0.4972856919345302,Forecast successful
+Wh-1,SKU-27,0.2888419131812236,Forecast successful
+Wh-1,SKU-28,0.23124547496451553,Forecast successful
+Wh-1,SKU-29,0.5959576870213288,Forecast successful
+Wh-1,SKU-3,0.2819171346259491,Forecast successful
+Wh-1,SKU-30,5.129536234239318,Forecast successful
+Wh-1,SKU-31,4.733048896198169,Forecast successful
+Wh-1,SKU-32,1.501134024900501,Forecast successful
+Wh-1,SKU-33,0.3664478140164809,Forecast successful
+Wh-1,SKU-34,1.9066311069405328,Forecast successful
+Wh-1,SKU-35,0.18766700146653936,Forecast successful
+Wh-1,SKU-36,1.775862851131442,Forecast successful
+Wh-1,SKU-37,3.2844585527377834,Forecast successful
+Wh-1,SKU-38,1.6413406263644,Forecast successful
+Wh-1,SKU-39,3.869843855362988,Forecast successful
+Wh-1,SKU-4,0.9571020708405783,Forecast successful
+Wh-1,SKU-40,1.429944611194058,Forecast successful
+Wh-1,SKU-41,0.9970926567465653,Forecast successful
+Wh-1,SKU-42,0.9255533754490948,Forecast successful
+Wh-1,SKU-43,3.127010516454727,Forecast successful
+Wh-1,SKU-44,0.4876004733628517,Forecast successful
+Wh-1,SKU-45,2.0367603390079427,Forecast successful
+Wh-1,SKU-46,1.338742951075293,Forecast successful
+Wh-1,SKU-47,12.992498929569074,Forecast successful
+Wh-1,SKU-48,1.3150635163405386,Forecast successful
+Wh-1,SKU-49,14.314718500633703,Forecast successful
+Wh-1,SKU-5,3.9127091907054194,Forecast successful
+Wh-1,SKU-50,0.7276353665946366,Forecast successful
+Wh-1,SKU-51,2.4586602999277822,Forecast successful
+Wh-1,SKU-52,0.8741901243924671,Forecast successful
+Wh-1,SKU-53,1.4888800474956068,Forecast successful
+Wh-1,SKU-54,0.33576607430594946,Forecast successful
+Wh-1,SKU-55,0.4052782948683391,Forecast successful
+Wh-1,SKU-56,0.29432253020902727,Forecast successful
+Wh-1,SKU-57,0.9173594757799076,Forecast successful
+Wh-1,SKU-58,0.6428267408223188,Forecast successful
+Wh-1,SKU-59,1.5925687479614445,Forecast successful
+Wh-1,SKU-6,3.506292602570992,Forecast successful
+Wh-1,SKU-60,5.258431987461499,Forecast successful
+Wh-1,SKU-61,31.607299668673214,Forecast successful
+Wh-1,SKU-62,1.7210509409091024,Forecast successful
+Wh-1,SKU-63,0.5097222036448992,Forecast successful
+Wh-1,SKU-64,0.697268005795998,Forecast successful
+Wh-1,SKU-65,1.1390917086746797,Forecast successful
+Wh-1,SKU-66,1.518477724696943,Forecast successful
+Wh-1,SKU-67,0.505834822603434,Forecast successful
+Wh-1,SKU-68,0.772657494525085,Forecast successful
+Wh-1,SKU-69,0.8643226845429033,Forecast successful
+Wh-1,SKU-7,16.674522184857356,Forecast successful
+Wh-1,SKU-70,0.8926374429341436,Forecast successful
+Wh-1,SKU-71,2.0017640959196834,Forecast successful
+Wh-1,SKU-72,0.8128344435106258,Forecast successful
+Wh-1,SKU-73,0.8199725671560176,Forecast successful
+Wh-1,SKU-74,4.7515464177752795,Forecast successful
+Wh-1,SKU-75,0.5310112479884904,Forecast successful
+Wh-1,SKU-76,0.08724444276477061,Forecast successful
+Wh-1,SKU-77,1.8995484501677649,Forecast successful
+Wh-1,SKU-78,1.9151688653467835,Forecast successful
+Wh-1,SKU-79,3.9787713687298423,Forecast successful
+Wh-1,SKU-8,4.376139054208423,Forecast successful
+Wh-1,SKU-80,3.1546239853680986,Forecast successful
+Wh-1,SKU-81,1.724117550167893,Forecast successful
+Wh-1,SKU-82,1.1378970664198302,Forecast successful
+Wh-1,SKU-83,0.7547536972050914,Forecast successful
+Wh-1,SKU-84,3.9807435599257777,Forecast successful
+Wh-1,SKU-85,31.472318998654618,Forecast successful
+Wh-1,SKU-86,0.7582987823224275,Forecast successful
+Wh-1,SKU-87,0.06789192398099317,Forecast successful
+Wh-1,SKU-88,1.4747818991734203,Forecast successful
+Wh-1,SKU-89,2.59206855747757,Forecast successful
+Wh-1,SKU-9,1.0334410370506038,Forecast successful
+Wh-1,SKU-90,1.4348365327589583,Forecast successful
+Wh-1,SKU-91,1.4642741079921533,Forecast successful
+Wh-1,SKU-92,1.800602632698857,Forecast successful
+Wh-1,SKU-93,1.1886232528703082,Forecast successful
+Wh-1,SKU-94,1.0375244544133988,Forecast successful
+Wh-1,SKU-95,0.44940587947921445,Forecast successful
+Wh-1,SKU-96,0.8394460235099864,Forecast successful
+Wh-1,SKU-97,1.7570039344636,Forecast successful
+Wh-1,SKU-98,0.92623611931459,Forecast successful
+Wh-1,SKU-99,0.39312687148934017,Forecast successful
+Wh-1,SKU-234,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-237,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-239,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-240,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-244,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-248,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-250,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-251,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-257,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-258,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-259,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-260,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-261,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-262,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-263,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-264,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-265,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-267,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-268,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-269,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-270,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-271,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-272,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-275,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-276,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-278,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-287,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-288,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-289,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-291,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-292,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-293,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-297,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-306,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-312,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-315,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-316,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-319,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-321,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-322,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-328,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-329,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-330,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-332,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-337,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-338,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-339,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-340,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-342,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-343,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-344,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-345,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-352,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-359,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-361,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-386,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-387,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-389,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-392,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-399,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-403,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-404,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-405,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-406,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-407,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-408,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-409,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-410,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-411,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-412,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-413,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-414,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-415,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-236,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-241,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-243,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-252,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-253,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-254,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-255,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-256,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-266,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-273,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-274,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-277,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-279,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-280,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-281,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-282,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-283,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-284,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-285,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-290,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-299,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-300,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-301,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-302,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-314,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-317,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-318,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-320,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-323,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-324,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-325,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-326,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-327,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-331,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-341,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-350,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-351,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-353,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-354,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-355,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-356,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-357,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-358,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-360,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-362,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-363,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-364,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-365,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-366,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-367,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-368,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-369,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-370,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-371,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-372,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-373,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-374,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-375,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-376,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-377,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-378,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-379,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-380,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-381,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-382,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-383,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-384,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-385,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-388,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-390,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-391,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-393,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-394,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-395,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-396,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-397,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-398,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-400,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-401,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-402,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-245,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-246,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-286,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-416,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-417,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-418,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-419,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-420,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-421,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-422,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-423,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-424,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-425,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-426,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-427,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-428,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-429,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-430,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-431,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-432,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-433,,No data available for this SKU-Warehouse combination.
+Wh-1,SKU-434,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-1,1.9344248754624123,Forecast successful
+Wh-2,SKU-10,1.539571924651413,Forecast successful
+Wh-2,SKU-100,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-101,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-102,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-103,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-104,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-105,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-106,1.3149280016434428,Forecast successful
+Wh-2,SKU-107,0.2904435114801506,Forecast successful
+Wh-2,SKU-108,5.314039165435072,Forecast successful
+Wh-2,SKU-109,1.8324720986596164,Forecast successful
+Wh-2,SKU-11,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-110,0.061423121180542925,Forecast successful
+Wh-2,SKU-111,0.9918873008090764,Forecast successful
+Wh-2,SKU-112,0.5643628255609289,Forecast successful
+Wh-2,SKU-113,5.58509175296593,Forecast successful
+Wh-2,SKU-114,0.39820221694462477,Forecast successful
+Wh-2,SKU-115,1.6656654075686714,Forecast successful
+Wh-2,SKU-116,0.4205358680163106,Forecast successful
+Wh-2,SKU-117,0.15246485733746512,Forecast successful
+Wh-2,SKU-118,0.4135810778713386,Forecast successful
+Wh-2,SKU-119,1.8455034931105494,Forecast successful
+Wh-2,SKU-12,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-120,19.800931644489957,Forecast successful
+Wh-2,SKU-121,4.8369660057292245,Forecast successful
+Wh-2,SKU-122,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-123,2.037788119454191,Forecast successful
+Wh-2,SKU-124,3.2470472253433225,Forecast successful
+Wh-2,SKU-125,7.087214182588371,Forecast successful
+Wh-2,SKU-126,6.135147736052704,Forecast successful
+Wh-2,SKU-127,2.646915084132928,Forecast successful
+Wh-2,SKU-128,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-129,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-13,2.4437183509560514,Forecast successful
+Wh-2,SKU-130,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-131,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-132,3.1454272053899146,Forecast successful
+Wh-2,SKU-133,5.15769515720221,Forecast successful
+Wh-2,SKU-134,1.1474339469844135,Forecast successful
+Wh-2,SKU-135,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-136,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-137,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-138,27.61441618429955,Forecast successful
+Wh-2,SKU-139,1.9933243408525996,Forecast successful
+Wh-2,SKU-14,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-140,1.9826080284640595,Forecast successful
+Wh-2,SKU-141,7.013178012351762,Forecast successful
+Wh-2,SKU-142,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-143,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-144,9.595300441950656,Forecast successful
+Wh-2,SKU-145,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-146,15.034017780241042,Forecast successful
+Wh-2,SKU-147,5.239740995419019,Forecast successful
+Wh-2,SKU-148,51.02668875864737,Forecast successful
+Wh-2,SKU-149,11.61140414701786,Forecast successful
+Wh-2,SKU-15,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-150,1.688249240214634,Forecast successful
+Wh-2,SKU-151,6.198860201513392,Forecast successful
+Wh-2,SKU-152,1.2975170691341738,Forecast successful
+Wh-2,SKU-153,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-154,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-155,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-156,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-157,0.8335622266646944,Forecast successful
+Wh-2,SKU-158,0.3231318227415027,Forecast successful
+Wh-2,SKU-159,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-16,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-160,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-161,1.5425451978060416,Forecast successful
+Wh-2,SKU-162,0.11689563303849977,Forecast successful
+Wh-2,SKU-163,0.06595437889697418,Forecast successful
+Wh-2,SKU-164,0.1491374519240086,Forecast successful
+Wh-2,SKU-165,0.34302974746652254,Forecast successful
+Wh-2,SKU-166,1.4219052186677648,Forecast successful
+Wh-2,SKU-167,0.47863616779745277,Forecast successful
+Wh-2,SKU-168,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-169,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-17,5.093936641597497,Forecast successful
+Wh-2,SKU-170,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-171,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-172,0.04388397869293992,Forecast successful
+Wh-2,SKU-173,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-174,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-175,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-176,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-177,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-178,0.48704496356599697,Forecast successful
+Wh-2,SKU-179,0.0654480843840837,Forecast successful
+Wh-2,SKU-18,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-180,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-181,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-182,2.919861795020558,Forecast successful
+Wh-2,SKU-183,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-184,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-185,2.841642143401267,Forecast successful
+Wh-2,SKU-186,0.5150887238951984,Forecast successful
+Wh-2,SKU-187,0.04388397869293993,Forecast successful
+Wh-2,SKU-188,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-189,0.20999820678223902,Forecast successful
+Wh-2,SKU-19,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-190,0.6457471417202951,Forecast successful
+Wh-2,SKU-191,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-192,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-193,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-194,0.36804616339914825,Forecast successful
+Wh-2,SKU-195,0.29487148014687486,Forecast successful
+Wh-2,SKU-196,1.2757442376759842,Forecast successful
+Wh-2,SKU-197,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-198,2.3867958854385,Forecast successful
+Wh-2,SKU-199,5.360423577563819,Forecast successful
+Wh-2,SKU-2,0.3550281034291126,Forecast successful
+Wh-2,SKU-20,1.1582389025328066,Forecast successful
+Wh-2,SKU-200,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-201,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-202,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-203,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-204,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-205,0.869046754875059,Forecast successful
+Wh-2,SKU-206,1.919499281912548,Forecast successful
+Wh-2,SKU-207,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-208,0.16513294113866733,Forecast successful
+Wh-2,SKU-209,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-21,0.5142594302115695,Forecast successful
+Wh-2,SKU-210,0.4209835008237137,Forecast successful
+Wh-2,SKU-211,0.6914719100332253,Forecast successful
+Wh-2,SKU-212,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-213,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-214,2.3172435303461874,Forecast successful
+Wh-2,SKU-215,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-216,97.15536508721489,Forecast successful
+Wh-2,SKU-217,4.358382288506935,Forecast successful
+Wh-2,SKU-218,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-219,0.8462865870162145,Forecast successful
+Wh-2,SKU-22,0.6722840002290734,Forecast successful
+Wh-2,SKU-220,28.327367231553193,Forecast successful
+Wh-2,SKU-221,2.4026186099854043,Forecast successful
+Wh-2,SKU-222,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-223,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-224,2.7271679051979523,Forecast successful
+Wh-2,SKU-225,1.6173316298609333,Forecast successful
+Wh-2,SKU-226,0.7830545988548332,Forecast successful
+Wh-2,SKU-227,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-228,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-229,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-23,0.36404919901470334,Forecast successful
+Wh-2,SKU-230,2.9047501485877576,Forecast successful
+Wh-2,SKU-231,1.2582728177284994,Forecast successful
+Wh-2,SKU-232,1.1754468271304852,Forecast successful
+Wh-2,SKU-233,1.8295398624410666,Forecast successful
+Wh-2,SKU-24,0.9883251810586509,Forecast successful
+Wh-2,SKU-25,0.5316045443897671,Forecast successful
+Wh-2,SKU-26,0.5321246229476166,Forecast successful
+Wh-2,SKU-27,0.5314078398928574,Forecast successful
+Wh-2,SKU-28,0.5212109653188708,Forecast successful
+Wh-2,SKU-29,0.21900092213412675,Forecast successful
+Wh-2,SKU-3,0.3224205543463401,Forecast successful
+Wh-2,SKU-30,1.197204830987797,Forecast successful
+Wh-2,SKU-31,2.3256613794392043,Forecast successful
+Wh-2,SKU-32,2.120687555184281,Forecast successful
+Wh-2,SKU-33,0.21193807567217748,Forecast successful
+Wh-2,SKU-34,1.1533954087786622,Forecast successful
+Wh-2,SKU-35,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-36,0.4825885707584797,Forecast successful
+Wh-2,SKU-37,2.5156398075515565,Forecast successful
+Wh-2,SKU-38,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-39,0.9261354696498515,Forecast successful
+Wh-2,SKU-4,2.713563435955887,Forecast successful
+Wh-2,SKU-40,3.5868844340629438,Forecast successful
+Wh-2,SKU-41,0.6465984339476755,Forecast successful
+Wh-2,SKU-42,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-43,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-44,0.2989044951254179,Forecast successful
+Wh-2,SKU-45,0.962648502991618,Forecast successful
+Wh-2,SKU-46,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-47,0.8670420398626071,Forecast successful
+Wh-2,SKU-48,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-49,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-5,2.003921997044788,Forecast successful
+Wh-2,SKU-50,0.761373776865052,Forecast successful
+Wh-2,SKU-51,2.830199898835595,Forecast successful
+Wh-2,SKU-52,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-53,3.84470430302333,Forecast successful
+Wh-2,SKU-54,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-55,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-56,0.29465866989727446,Forecast successful
+Wh-2,SKU-57,0.42380782431076014,Forecast successful
+Wh-2,SKU-58,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-59,0.22365466500849102,Forecast successful
+Wh-2,SKU-6,0.2537693014050905,Forecast successful
+Wh-2,SKU-60,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-61,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-62,0.3369945358750035,Forecast successful
+Wh-2,SKU-63,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-64,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-65,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-66,2.378515124757765,Forecast successful
+Wh-2,SKU-67,0.6521943949817444,Forecast successful
+Wh-2,SKU-68,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-69,3.755409566458691,Forecast successful
+Wh-2,SKU-7,1.480316330902334,Forecast successful
+Wh-2,SKU-70,1.5779699846485098,Forecast successful
+Wh-2,SKU-71,2.7431791662300746,Forecast successful
+Wh-2,SKU-72,2.0079281893405567,Forecast successful
+Wh-2,SKU-73,0.4606620184542705,Forecast successful
+Wh-2,SKU-74,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-75,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-76,0.08048384127479982,Forecast successful
+Wh-2,SKU-77,2.297224540215778,Forecast successful
+Wh-2,SKU-78,11.041885146377936,Forecast successful
+Wh-2,SKU-79,0.8324939513613487,Forecast successful
+Wh-2,SKU-8,1.3264371645223236,Forecast successful
+Wh-2,SKU-80,1.1653182974623466,Forecast successful
+Wh-2,SKU-81,3.915291102793175,Forecast successful
+Wh-2,SKU-82,2.1645061578814397,Forecast successful
+Wh-2,SKU-83,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-84,0.3769344599977212,Forecast successful
+Wh-2,SKU-85,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-86,1.1964467276256894,Forecast successful
+Wh-2,SKU-87,0.2520907389277097,Forecast successful
+Wh-2,SKU-88,1.7755145395622869,Forecast successful
+Wh-2,SKU-89,2.543234018718698,Forecast successful
+Wh-2,SKU-9,11.66224899246306,Forecast successful
+Wh-2,SKU-90,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-91,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-92,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-93,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-94,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-95,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-96,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-97,1.3783225824902334,Forecast successful
+Wh-2,SKU-98,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-99,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-234,2.016341760874146,Forecast successful
+Wh-2,SKU-237,2.736685437979471,Forecast successful
+Wh-2,SKU-239,0.8797137662415866,Forecast successful
+Wh-2,SKU-240,5.191964243646886,Forecast successful
+Wh-2,SKU-244,0.823621097568725,Forecast successful
+Wh-2,SKU-248,1.4833523036681384,Forecast successful
+Wh-2,SKU-250,2.060095208638066,Forecast successful
+Wh-2,SKU-251,2.858488371916207,Forecast successful
+Wh-2,SKU-257,1.0078899048968533,Forecast successful
+Wh-2,SKU-258,18.312542658377275,Forecast successful
+Wh-2,SKU-259,0.45369677509595113,Forecast successful
+Wh-2,SKU-260,0.29558284838206356,Forecast successful
+Wh-2,SKU-261,0.17630210856070985,Forecast successful
+Wh-2,SKU-262,0.6510145300450801,Forecast successful
+Wh-2,SKU-263,3.4666594880771426,Forecast successful
+Wh-2,SKU-264,24.569291703473322,Forecast successful
+Wh-2,SKU-265,6.914347253366913,Forecast successful
+Wh-2,SKU-267,2.5075989676274686,Forecast successful
+Wh-2,SKU-268,35.51772818259248,Forecast successful
+Wh-2,SKU-269,0.9254856307307098,Forecast successful
+Wh-2,SKU-270,1.310505094015688,Forecast successful
+Wh-2,SKU-271,1.163937287682078,Forecast successful
+Wh-2,SKU-272,2.1887903497342327,Forecast successful
+Wh-2,SKU-275,1.281791674105729,Forecast successful
+Wh-2,SKU-276,1.3163381432564372,Forecast successful
+Wh-2,SKU-278,0.8806470569541395,Forecast successful
+Wh-2,SKU-287,12.404186500927178,Forecast successful
+Wh-2,SKU-288,3.0021455451648857,Forecast successful
+Wh-2,SKU-289,1.6366776390930204,Forecast successful
+Wh-2,SKU-291,57.53589981569291,Forecast successful
+Wh-2,SKU-292,2.1568955561034233,Forecast successful
+Wh-2,SKU-293,1.6682431262046962,Forecast successful
+Wh-2,SKU-297,1.899878793146552,Forecast successful
+Wh-2,SKU-306,1.0276926194374685,Forecast successful
+Wh-2,SKU-312,0.04388397869293992,Forecast successful
+Wh-2,SKU-315,0.08044896790416152,Forecast successful
+Wh-2,SKU-316,0.0828608139229026,Forecast successful
+Wh-2,SKU-319,0.2888083124877259,Forecast successful
+Wh-2,SKU-321,0.38725995082650694,Forecast successful
+Wh-2,SKU-322,0.4211497438311243,Forecast successful
+Wh-2,SKU-328,1.8751554659663228,Forecast successful
+Wh-2,SKU-329,1.5482059687120726,Forecast successful
+Wh-2,SKU-330,3.818849478781837,Forecast successful
+Wh-2,SKU-332,5.445747822640793,Forecast successful
+Wh-2,SKU-337,5.2372635857295435,Forecast successful
+Wh-2,SKU-338,0.15481508087351945,Forecast successful
+Wh-2,SKU-339,1.6761457581339667,Forecast successful
+Wh-2,SKU-340,39.486439600991474,Forecast successful
+Wh-2,SKU-342,2.282762508331614,Forecast successful
+Wh-2,SKU-343,4.2220898266466,Forecast successful
+Wh-2,SKU-344,0.14221112902332933,Forecast successful
+Wh-2,SKU-345,6.253265974075459,Forecast successful
+Wh-2,SKU-352,0.7446528935826286,Forecast successful
+Wh-2,SKU-359,0.9806452678803926,Forecast successful
+Wh-2,SKU-361,1.9746031474313368,Forecast successful
+Wh-2,SKU-386,19.99585426219995,Forecast successful
+Wh-2,SKU-387,1.4189677340326792,Forecast successful
+Wh-2,SKU-389,0.07321578807067769,Forecast successful
+Wh-2,SKU-392,0.10889942765930076,Forecast successful
+Wh-2,SKU-399,0.1483488403683387,Forecast successful
+Wh-2,SKU-403,0.8723567210111313,Forecast successful
+Wh-2,SKU-404,1.3266917479216822,Forecast successful
+Wh-2,SKU-405,4.406348093613578,Forecast successful
+Wh-2,SKU-406,13.826331132036115,Forecast successful
+Wh-2,SKU-407,1.7684292414701321,Forecast successful
+Wh-2,SKU-408,1.7565581475732006,Forecast successful
+Wh-2,SKU-409,0.8790492917406963,Forecast successful
+Wh-2,SKU-410,1.2808250469044156,Forecast successful
+Wh-2,SKU-411,5.940195833254566,Forecast successful
+Wh-2,SKU-412,3.405851862102986,Forecast successful
+Wh-2,SKU-413,4.565141853385235,Forecast successful
+Wh-2,SKU-414,2.5537314883312834,Forecast successful
+Wh-2,SKU-415,2.343215561746792,Forecast successful
+Wh-2,SKU-236,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-241,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-243,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-252,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-253,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-254,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-255,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-256,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-266,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-273,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-274,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-277,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-279,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-280,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-281,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-282,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-283,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-284,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-285,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-290,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-299,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-300,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-301,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-302,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-314,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-317,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-318,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-320,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-323,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-324,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-325,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-326,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-327,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-331,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-341,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-350,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-351,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-353,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-354,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-355,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-356,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-357,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-358,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-360,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-362,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-363,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-364,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-365,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-366,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-367,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-368,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-369,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-370,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-371,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-372,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-373,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-374,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-375,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-376,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-377,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-378,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-379,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-380,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-381,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-382,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-383,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-384,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-385,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-388,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-390,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-391,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-393,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-394,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-395,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-396,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-397,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-398,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-400,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-401,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-402,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-245,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-246,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-286,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-416,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-417,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-418,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-419,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-420,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-421,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-422,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-423,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-424,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-425,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-426,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-427,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-428,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-429,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-430,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-431,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-432,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-433,,No data available for this SKU-Warehouse combination.
+Wh-2,SKU-434,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-1,0.9621365226530354,Forecast successful
+Wh-3,SKU-10,0.8147980512617508,Forecast successful
+Wh-3,SKU-100,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-101,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-102,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-103,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-104,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-105,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-106,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-107,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-108,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-109,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-11,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-110,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-111,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-112,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-113,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-114,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-115,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-116,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-117,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-118,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-119,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-12,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-120,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-121,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-122,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-123,1.2625098250350826,Forecast successful
+Wh-3,SKU-124,3.274741804937896,Forecast successful
+Wh-3,SKU-125,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-126,4.327994127525021,Forecast successful
+Wh-3,SKU-127,3.895304857239132,Forecast successful
+Wh-3,SKU-128,1.4883043381533876,Forecast successful
+Wh-3,SKU-129,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-13,6.470050237175141,Forecast successful
+Wh-3,SKU-130,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-131,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-132,1.2944690784908455,Forecast successful
+Wh-3,SKU-133,1.2232651158627166,Forecast successful
+Wh-3,SKU-134,13.579776299281422,Forecast successful
+Wh-3,SKU-135,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-136,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-137,8.251811304973668,Forecast successful
+Wh-3,SKU-138,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-139,4.454935624383725,Forecast successful
+Wh-3,SKU-14,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-140,2.3632334635321963,Forecast successful
+Wh-3,SKU-141,0.7817554783192397,Forecast successful
+Wh-3,SKU-142,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-143,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-144,0.7995912954268639,Forecast successful
+Wh-3,SKU-145,1.4163220579652442,Forecast successful
+Wh-3,SKU-146,4.572013773690552,Forecast successful
+Wh-3,SKU-147,3.3614201234343377,Forecast successful
+Wh-3,SKU-148,3.1690377104773906,Forecast successful
+Wh-3,SKU-149,2.51102203556302,Forecast successful
+Wh-3,SKU-15,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-150,1.0655440691926905,Forecast successful
+Wh-3,SKU-151,1.8856168564908322,Forecast successful
+Wh-3,SKU-152,1.2696579247907807,Forecast successful
+Wh-3,SKU-153,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-154,0.8998626496286437,Forecast successful
+Wh-3,SKU-155,1.547828437941687,Forecast successful
+Wh-3,SKU-156,0.2596507272107948,Forecast successful
+Wh-3,SKU-157,0.807993712270988,Forecast successful
+Wh-3,SKU-158,0.8443822925192621,Forecast successful
+Wh-3,SKU-159,0.7981158554381432,Forecast successful
+Wh-3,SKU-16,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-160,2.710570297615274,Forecast successful
+Wh-3,SKU-161,1.895828380028552,Forecast successful
+Wh-3,SKU-162,0.07938878368882006,Forecast successful
+Wh-3,SKU-163,0.081961017912885,Forecast successful
+Wh-3,SKU-164,0.11227911480148595,Forecast successful
+Wh-3,SKU-165,0.7281570383762671,Forecast successful
+Wh-3,SKU-166,0.5864963269435826,Forecast successful
+Wh-3,SKU-167,11.43826939096555,Forecast successful
+Wh-3,SKU-168,0.9788112770047538,Forecast successful
+Wh-3,SKU-169,0.5405793161753184,Forecast successful
+Wh-3,SKU-17,2.6983049914201827,Forecast successful
+Wh-3,SKU-170,0.3687345940980198,Forecast successful
+Wh-3,SKU-171,0.440229588304931,Forecast successful
+Wh-3,SKU-172,0.06792030476005065,Forecast successful
+Wh-3,SKU-173,2.0001546831003254,Forecast successful
+Wh-3,SKU-174,0.3377923499542039,Forecast successful
+Wh-3,SKU-175,0.26519774794533885,Forecast successful
+Wh-3,SKU-176,0.2523465997629122,Forecast successful
+Wh-3,SKU-177,0.3528799850769772,Forecast successful
+Wh-3,SKU-178,0.22323000010044886,Forecast successful
+Wh-3,SKU-179,0.5180778525368817,Forecast successful
+Wh-3,SKU-18,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-180,0.34516500050973925,Forecast successful
+Wh-3,SKU-181,0.8579327564526504,Forecast successful
+Wh-3,SKU-182,3.185397236966235,Forecast successful
+Wh-3,SKU-183,0.26504293718802535,Forecast successful
+Wh-3,SKU-184,1.254891051811226,Forecast successful
+Wh-3,SKU-185,1.1992483456045828,Forecast successful
+Wh-3,SKU-186,1.4344471976080289,Forecast successful
+Wh-3,SKU-187,0.5429776237593632,Forecast successful
+Wh-3,SKU-188,0.41235294346056756,Forecast successful
+Wh-3,SKU-189,0.3552143756335981,Forecast successful
+Wh-3,SKU-19,0.18249603115016702,Forecast successful
+Wh-3,SKU-190,0.8461134471915613,Forecast successful
+Wh-3,SKU-191,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-192,0.3099563951316875,Forecast successful
+Wh-3,SKU-193,0.3771603346258631,Forecast successful
+Wh-3,SKU-194,0.719577435171753,Forecast successful
+Wh-3,SKU-195,0.2269375952630457,Forecast successful
+Wh-3,SKU-196,4.668142701364917,Forecast successful
+Wh-3,SKU-197,0.893270363701257,Forecast successful
+Wh-3,SKU-198,1.332700093381069,Forecast successful
+Wh-3,SKU-199,3.0656139018956323,Forecast successful
+Wh-3,SKU-2,1.561763721783581,Forecast successful
+Wh-3,SKU-20,0.28597538451895393,Forecast successful
+Wh-3,SKU-200,0.35690479340586573,Forecast successful
+Wh-3,SKU-201,0.14667448051163645,Forecast successful
+Wh-3,SKU-202,0.2973353781297477,Forecast successful
+Wh-3,SKU-203,3.373099968443783,Forecast successful
+Wh-3,SKU-204,0.2474379882267778,Forecast successful
+Wh-3,SKU-205,0.41196098289049743,Forecast successful
+Wh-3,SKU-206,3.3033073674969002,Forecast successful
+Wh-3,SKU-207,0.13445239897561906,Forecast successful
+Wh-3,SKU-208,0.10660515249532972,Forecast successful
+Wh-3,SKU-209,0.4813482096123759,Forecast successful
+Wh-3,SKU-21,0.527095728328912,Forecast successful
+Wh-3,SKU-210,0.6538068749833343,Forecast successful
+Wh-3,SKU-211,12.736593990579918,Forecast successful
+Wh-3,SKU-212,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-213,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-214,3.0005098314205467,Forecast successful
+Wh-3,SKU-215,3.1293652317368026,Forecast successful
+Wh-3,SKU-216,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-217,5.746089896034757,Forecast successful
+Wh-3,SKU-218,0.952494742158069,Forecast successful
+Wh-3,SKU-219,4.823259978354894,Forecast successful
+Wh-3,SKU-22,0.22784055202095033,Forecast successful
+Wh-3,SKU-220,0.8826591513652325,Forecast successful
+Wh-3,SKU-221,0.7403760823417742,Forecast successful
+Wh-3,SKU-222,5.605064321121236,Forecast successful
+Wh-3,SKU-223,1.4932359964422768,Forecast successful
+Wh-3,SKU-224,25.370095948941124,Forecast successful
+Wh-3,SKU-225,6.132764562079893,Forecast successful
+Wh-3,SKU-226,1.9736793837214348,Forecast successful
+Wh-3,SKU-227,1.0852201652405242,Forecast successful
+Wh-3,SKU-228,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-229,0.12613403411694232,Forecast successful
+Wh-3,SKU-23,0.19175883222529025,Forecast successful
+Wh-3,SKU-230,1.128888091553398,Forecast successful
+Wh-3,SKU-231,2.7232082141746887,Forecast successful
+Wh-3,SKU-232,0.7926572179738567,Forecast successful
+Wh-3,SKU-233,1.5500901835607674,Forecast successful
+Wh-3,SKU-24,0.9692375486079063,Forecast successful
+Wh-3,SKU-25,0.47399129115520905,Forecast successful
+Wh-3,SKU-26,0.2618204656521426,Forecast successful
+Wh-3,SKU-27,0.5665316783829256,Forecast successful
+Wh-3,SKU-28,0.28060495241580863,Forecast successful
+Wh-3,SKU-29,0.366760699063415,Forecast successful
+Wh-3,SKU-3,0.37395022347926515,Forecast successful
+Wh-3,SKU-30,1.7174556998625023,Forecast successful
+Wh-3,SKU-31,0.5711400957224082,Forecast successful
+Wh-3,SKU-32,1.24404264214221,Forecast successful
+Wh-3,SKU-33,0.18471878934498487,Forecast successful
+Wh-3,SKU-34,1.0729083723233197,Forecast successful
+Wh-3,SKU-35,0.13683685447103644,Forecast successful
+Wh-3,SKU-36,0.4241416257377006,Forecast successful
+Wh-3,SKU-37,1.9317902211499798,Forecast successful
+Wh-3,SKU-38,5.974131864690845,Forecast successful
+Wh-3,SKU-39,1.6657864028535518,Forecast successful
+Wh-3,SKU-4,0.4733719186170452,Forecast successful
+Wh-3,SKU-40,1.4936869386743805,Forecast successful
+Wh-3,SKU-41,0.5305594127051582,Forecast successful
+Wh-3,SKU-42,0.38694443692020075,Forecast successful
+Wh-3,SKU-43,0.6800677141764837,Forecast successful
+Wh-3,SKU-44,0.5282180679067482,Forecast successful
+Wh-3,SKU-45,1.6699257406128922,Forecast successful
+Wh-3,SKU-46,0.7856621044951154,Forecast successful
+Wh-3,SKU-47,4.148492627403493,Forecast successful
+Wh-3,SKU-48,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-49,2.005058182057228,Forecast successful
+Wh-3,SKU-5,2.1731018712793397,Forecast successful
+Wh-3,SKU-50,1.5127946981539908,Forecast successful
+Wh-3,SKU-51,2.9582550462398256,Forecast successful
+Wh-3,SKU-52,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-53,0.94825547732676,Forecast successful
+Wh-3,SKU-54,0.23885642431581822,Forecast successful
+Wh-3,SKU-55,0.43485933621038986,Forecast successful
+Wh-3,SKU-56,0.3267931910312584,Forecast successful
+Wh-3,SKU-57,0.40856233421940075,Forecast successful
+Wh-3,SKU-58,0.29396825261852644,Forecast successful
+Wh-3,SKU-59,0.3241617045839254,Forecast successful
+Wh-3,SKU-6,0.5412159987798288,Forecast successful
+Wh-3,SKU-60,0.9084898216024633,Forecast successful
+Wh-3,SKU-61,1.8223284323366358,Forecast successful
+Wh-3,SKU-62,0.5567659751534617,Forecast successful
+Wh-3,SKU-63,0.21663230371410905,Forecast successful
+Wh-3,SKU-64,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-65,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-66,1.0172878653631892,Forecast successful
+Wh-3,SKU-67,0.5762926804577377,Forecast successful
+Wh-3,SKU-68,0.2028288564234259,Forecast successful
+Wh-3,SKU-69,1.5125366862267065,Forecast successful
+Wh-3,SKU-7,1.6669286802054522,Forecast successful
+Wh-3,SKU-70,0.6288208254672384,Forecast successful
+Wh-3,SKU-71,0.5999209811044915,Forecast successful
+Wh-3,SKU-72,0.6636775510131856,Forecast successful
+Wh-3,SKU-73,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-74,0.43565617864419925,Forecast successful
+Wh-3,SKU-75,1.8917826716901025,Forecast successful
+Wh-3,SKU-76,0.07899665134295931,Forecast successful
+Wh-3,SKU-77,5.0653357176578,Forecast successful
+Wh-3,SKU-78,1.3284753168953827,Forecast successful
+Wh-3,SKU-79,1.0269698931245212,Forecast successful
+Wh-3,SKU-8,1.130764283740215,Forecast successful
+Wh-3,SKU-80,0.83217819371048,Forecast successful
+Wh-3,SKU-81,0.750831566459546,Forecast successful
+Wh-3,SKU-82,1.0900706881627937,Forecast successful
+Wh-3,SKU-83,1.0282058224506978,Forecast successful
+Wh-3,SKU-84,6.266780871461492,Forecast successful
+Wh-3,SKU-85,0.5145509872856335,Forecast successful
+Wh-3,SKU-86,5.001938092400891,Forecast successful
+Wh-3,SKU-87,0.0947053742577082,Forecast successful
+Wh-3,SKU-88,0.6871052568922891,Forecast successful
+Wh-3,SKU-89,2.0701731378641135,Forecast successful
+Wh-3,SKU-9,8.254217670607554,Forecast successful
+Wh-3,SKU-90,0.5075474681988756,Forecast successful
+Wh-3,SKU-91,1.034454672071566,Forecast successful
+Wh-3,SKU-92,0.3741441889345735,Forecast successful
+Wh-3,SKU-93,0.536157500612318,Forecast successful
+Wh-3,SKU-94,0.5079201862351606,Forecast successful
+Wh-3,SKU-95,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-96,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-97,1.4851971722013735,Forecast successful
+Wh-3,SKU-98,1.1956041876192776,Forecast successful
+Wh-3,SKU-99,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-234,0.9788904234462688,Forecast successful
+Wh-3,SKU-237,0.7838446735104875,Forecast successful
+Wh-3,SKU-239,5.65617830228556,Forecast successful
+Wh-3,SKU-240,4.2713056355281225,Forecast successful
+Wh-3,SKU-244,0.18803131409554422,Forecast successful
+Wh-3,SKU-248,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-250,1.2033947174251463,Forecast successful
+Wh-3,SKU-251,0.833274684450511,Forecast successful
+Wh-3,SKU-257,1.2395490558122433,Forecast successful
+Wh-3,SKU-258,0.8707483186727,Forecast successful
+Wh-3,SKU-259,0.7447460652843553,Forecast successful
+Wh-3,SKU-260,0.1907456298581924,Forecast successful
+Wh-3,SKU-261,0.3180278859960618,Forecast successful
+Wh-3,SKU-262,0.44663036203781603,Forecast successful
+Wh-3,SKU-263,14.427671496587454,Forecast successful
+Wh-3,SKU-264,41.50865798281885,Forecast successful
+Wh-3,SKU-265,0.6563922136451453,Forecast successful
+Wh-3,SKU-267,0.8433475108238102,Forecast successful
+Wh-3,SKU-268,41.630696742752576,Forecast successful
+Wh-3,SKU-269,0.6584314203810523,Forecast successful
+Wh-3,SKU-270,0.7536157887573511,Forecast successful
+Wh-3,SKU-271,4.170253955077942,Forecast successful
+Wh-3,SKU-272,1.0614709008589458,Forecast successful
+Wh-3,SKU-275,0.9508048305214702,Forecast successful
+Wh-3,SKU-276,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-278,1.1114574080545485,Forecast successful
+Wh-3,SKU-287,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-288,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-289,1.287027889172315,Forecast successful
+Wh-3,SKU-291,4.8656947873108445,Forecast successful
+Wh-3,SKU-292,3.762292102714167,Forecast successful
+Wh-3,SKU-293,1.7441708238400755,Forecast successful
+Wh-3,SKU-297,4.752052205854177,Forecast successful
+Wh-3,SKU-306,0.6432899778619742,Forecast successful
+Wh-3,SKU-312,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-315,1.9158859711885328,Forecast successful
+Wh-3,SKU-316,0.13680617389628907,Forecast successful
+Wh-3,SKU-319,0.49144507698577067,Forecast successful
+Wh-3,SKU-321,0.5577567410606159,Forecast successful
+Wh-3,SKU-322,0.5511789113314722,Forecast successful
+Wh-3,SKU-328,1.2244043859329636,Forecast successful
+Wh-3,SKU-329,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-330,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-332,1.6387515994269286,Forecast successful
+Wh-3,SKU-337,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-338,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-339,1.5116652661766559,Forecast successful
+Wh-3,SKU-340,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-342,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-343,2.0878843296673275,Forecast successful
+Wh-3,SKU-344,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-345,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-352,0.2373815336859314,Forecast successful
+Wh-3,SKU-359,1.6589013522447447,Forecast successful
+Wh-3,SKU-361,0.6471785102092021,Forecast successful
+Wh-3,SKU-386,5.0224308879122805,Forecast successful
+Wh-3,SKU-387,1.4003532734262354,Forecast successful
+Wh-3,SKU-389,0.17671341790854778,Forecast successful
+Wh-3,SKU-392,0.06070192687067759,Forecast successful
+Wh-3,SKU-399,0.21759250697967547,Forecast successful
+Wh-3,SKU-403,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-404,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-405,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-406,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-407,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-408,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-409,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-410,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-411,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-412,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-413,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-414,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-415,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-236,0.8254867973643198,Forecast successful
+Wh-3,SKU-241,0.4875860383510111,Forecast successful
+Wh-3,SKU-243,0.6722694073396251,Forecast successful
+Wh-3,SKU-252,0.7807172988532411,Forecast successful
+Wh-3,SKU-253,0.4850063523010958,Forecast successful
+Wh-3,SKU-254,0.24673549491620234,Forecast successful
+Wh-3,SKU-255,1.4024954351293946,Forecast successful
+Wh-3,SKU-256,1.5276382282885177,Forecast successful
+Wh-3,SKU-266,0.7977016462813001,Forecast successful
+Wh-3,SKU-273,0.2606819442157495,Forecast successful
+Wh-3,SKU-274,0.4428438368183212,Forecast successful
+Wh-3,SKU-277,1.9188309351984243,Forecast successful
+Wh-3,SKU-279,0.5072615245104007,Forecast successful
+Wh-3,SKU-280,0.35271621821424776,Forecast successful
+Wh-3,SKU-281,0.3382489664035944,Forecast successful
+Wh-3,SKU-282,0.6359392315165848,Forecast successful
+Wh-3,SKU-283,0.337676254517459,Forecast successful
+Wh-3,SKU-284,0.27152894809213524,Forecast successful
+Wh-3,SKU-285,0.33222061415387344,Forecast successful
+Wh-3,SKU-290,8.39668959483973,Forecast successful
+Wh-3,SKU-299,0.4215627033903856,Forecast successful
+Wh-3,SKU-300,0.5391122075321229,Forecast successful
+Wh-3,SKU-301,0.9061599007981246,Forecast successful
+Wh-3,SKU-302,0.5332654246988912,Forecast successful
+Wh-3,SKU-314,1.064450866073007,Forecast successful
+Wh-3,SKU-317,27.79842297094176,Forecast successful
+Wh-3,SKU-318,0.4215232754136806,Forecast successful
+Wh-3,SKU-320,0.4116556744231996,Forecast successful
+Wh-3,SKU-323,1.4800245500722446,Forecast successful
+Wh-3,SKU-324,5.020285674646646,Forecast successful
+Wh-3,SKU-325,11.200630330595274,Forecast successful
+Wh-3,SKU-326,23.255156591417705,Forecast successful
+Wh-3,SKU-327,0.10996004319778278,Forecast successful
+Wh-3,SKU-331,1.5847665351984197,Forecast successful
+Wh-3,SKU-341,0.8832165931232577,Forecast successful
+Wh-3,SKU-350,0.4021701285591915,Forecast successful
+Wh-3,SKU-351,0.20550699986418997,Forecast successful
+Wh-3,SKU-353,0.47653290849157226,Forecast successful
+Wh-3,SKU-354,9.432759338555659,Forecast successful
+Wh-3,SKU-355,2.463808716292417,Forecast successful
+Wh-3,SKU-356,0.23801423954329612,Forecast successful
+Wh-3,SKU-357,39.694204100162004,Forecast successful
+Wh-3,SKU-358,0.04388397869293994,Forecast successful
+Wh-3,SKU-360,0.6263979797927752,Forecast successful
+Wh-3,SKU-362,0.2036507482331662,Forecast successful
+Wh-3,SKU-363,1.1255606870562438,Forecast successful
+Wh-3,SKU-364,1.1592751454942216,Forecast successful
+Wh-3,SKU-365,2.0349967944983276,Forecast successful
+Wh-3,SKU-366,4.237702539004838,Forecast successful
+Wh-3,SKU-367,0.7920512008707881,Forecast successful
+Wh-3,SKU-368,0.351900437737291,Forecast successful
+Wh-3,SKU-369,0.04388218266338046,Forecast successful
+Wh-3,SKU-370,1.5508616176454593,Forecast successful
+Wh-3,SKU-371,2.5865832366224395,Forecast successful
+Wh-3,SKU-372,1.5940790192096181,Forecast successful
+Wh-3,SKU-373,0.19044226484264334,Forecast successful
+Wh-3,SKU-374,9.498976935159156,Forecast successful
+Wh-3,SKU-375,0.3462633405678857,Forecast successful
+Wh-3,SKU-376,0.26537969051099947,Forecast successful
+Wh-3,SKU-377,0.17759989587059738,Forecast successful
+Wh-3,SKU-378,0.38011819509882433,Forecast successful
+Wh-3,SKU-379,1.0026655723714348,Forecast successful
+Wh-3,SKU-380,0.7436166602913852,Forecast successful
+Wh-3,SKU-381,4.04096826634925,Forecast successful
+Wh-3,SKU-382,0.47192009005834273,Forecast successful
+Wh-3,SKU-383,3.9229184179900556,Forecast successful
+Wh-3,SKU-384,0.20354763869431666,Forecast successful
+Wh-3,SKU-385,0.7071279751917375,Forecast successful
+Wh-3,SKU-388,4.251811578587057,Forecast successful
+Wh-3,SKU-390,0.08110884232351304,Forecast successful
+Wh-3,SKU-391,0.04388397869293992,Forecast successful
+Wh-3,SKU-393,0.04388397869293992,Forecast successful
+Wh-3,SKU-394,0.04388218266338046,Forecast successful
+Wh-3,SKU-395,0.04388360089877543,Forecast successful
+Wh-3,SKU-396,0.46150917568330374,Forecast successful
+Wh-3,SKU-397,3.4923368312380787,Forecast successful
+Wh-3,SKU-398,0.15661764064450176,Forecast successful
+Wh-3,SKU-400,0.8580644929457033,Forecast successful
+Wh-3,SKU-401,1.3980749924503264,Forecast successful
+Wh-3,SKU-402,0.4116119984685664,Forecast successful
+Wh-3,SKU-245,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-246,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-286,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-416,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-417,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-418,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-419,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-420,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-421,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-422,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-423,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-424,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-425,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-426,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-427,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-428,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-429,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-430,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-431,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-432,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-433,,No data available for this SKU-Warehouse combination.
+Wh-3,SKU-434,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-1,1.8812634978409828,Forecast successful
+Wh-4,SKU-10,1.2437671053499118,Forecast successful
+Wh-4,SKU-100,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-101,1.3354762220296679,Forecast successful
+Wh-4,SKU-102,0.2424327461066941,Forecast successful
+Wh-4,SKU-103,10.426802037525102,Forecast successful
+Wh-4,SKU-104,0.8953347873395304,Forecast successful
+Wh-4,SKU-105,0.6868799700597017,Forecast successful
+Wh-4,SKU-106,23.193261986932736,Forecast successful
+Wh-4,SKU-107,1.6272170079605717,Forecast successful
+Wh-4,SKU-108,4.494989261608019,Forecast successful
+Wh-4,SKU-109,1.529088661655142,Forecast successful
+Wh-4,SKU-11,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-110,1.6783123484470002,Forecast successful
+Wh-4,SKU-111,0.8123005266266968,Forecast successful
+Wh-4,SKU-112,0.6933105265536108,Forecast successful
+Wh-4,SKU-113,1.160374090587492,Forecast successful
+Wh-4,SKU-114,0.3180815190907363,Forecast successful
+Wh-4,SKU-115,0.43033952579330675,Forecast successful
+Wh-4,SKU-116,0.6987825493634733,Forecast successful
+Wh-4,SKU-117,0.4629795024912178,Forecast successful
+Wh-4,SKU-118,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-119,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-12,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-120,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-121,7.304573023922942,Forecast successful
+Wh-4,SKU-122,2.683748744238466,Forecast successful
+Wh-4,SKU-123,1.2827274569124052,Forecast successful
+Wh-4,SKU-124,19.816507055089414,Forecast successful
+Wh-4,SKU-125,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-126,4.341810101592341,Forecast successful
+Wh-4,SKU-127,19.646577533679643,Forecast successful
+Wh-4,SKU-128,7.231744999693312,Forecast successful
+Wh-4,SKU-129,33.62068938993522,Forecast successful
+Wh-4,SKU-13,6.092054575950137,Forecast successful
+Wh-4,SKU-130,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-131,5.073615311867312,Forecast successful
+Wh-4,SKU-132,3.3067620815743397,Forecast successful
+Wh-4,SKU-133,5.305524811631545,Forecast successful
+Wh-4,SKU-134,5.644399780968419,Forecast successful
+Wh-4,SKU-135,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-136,30.389232807864442,Forecast successful
+Wh-4,SKU-137,4.970789406180272,Forecast successful
+Wh-4,SKU-138,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-139,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-14,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-140,29.558012474542533,Forecast successful
+Wh-4,SKU-141,2.8833076307946275,Forecast successful
+Wh-4,SKU-142,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-143,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-144,1.101986258618597,Forecast successful
+Wh-4,SKU-145,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-146,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-147,1.8299875227298295,Forecast successful
+Wh-4,SKU-148,1.2690357490249677,Forecast successful
+Wh-4,SKU-149,9.42008962966995,Forecast successful
+Wh-4,SKU-15,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-150,2.66715601061589,Forecast successful
+Wh-4,SKU-151,9.33697980346042,Forecast successful
+Wh-4,SKU-152,4.3906407285145574,Forecast successful
+Wh-4,SKU-153,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-154,1.6650414864851186,Forecast successful
+Wh-4,SKU-155,0.533167096007496,Forecast successful
+Wh-4,SKU-156,0.09795854121122426,Forecast successful
+Wh-4,SKU-157,0.582439193693456,Forecast successful
+Wh-4,SKU-158,0.6488268937569435,Forecast successful
+Wh-4,SKU-159,0.7216645147147254,Forecast successful
+Wh-4,SKU-16,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-160,0.72871059457135,Forecast successful
+Wh-4,SKU-161,3.531528631570667,Forecast successful
+Wh-4,SKU-162,0.09436399294399624,Forecast successful
+Wh-4,SKU-163,0.08163481590256975,Forecast successful
+Wh-4,SKU-164,0.07429388710896626,Forecast successful
+Wh-4,SKU-165,0.6667854502306277,Forecast successful
+Wh-4,SKU-166,0.7946653962341942,Forecast successful
+Wh-4,SKU-167,0.6431643515370475,Forecast successful
+Wh-4,SKU-168,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-169,0.1399042311466529,Forecast successful
+Wh-4,SKU-17,1.9876286750869596,Forecast successful
+Wh-4,SKU-170,0.2002249323301216,Forecast successful
+Wh-4,SKU-171,0.12543180371878843,Forecast successful
+Wh-4,SKU-172,0.04388360089877543,Forecast successful
+Wh-4,SKU-173,1.2252753576420117,Forecast successful
+Wh-4,SKU-174,0.07968667581951869,Forecast successful
+Wh-4,SKU-175,0.5491535357677977,Forecast successful
+Wh-4,SKU-176,0.2589393420781308,Forecast successful
+Wh-4,SKU-177,0.1057180842092921,Forecast successful
+Wh-4,SKU-178,0.346673325510496,Forecast successful
+Wh-4,SKU-179,0.0989559912454766,Forecast successful
+Wh-4,SKU-18,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-180,0.3562348251220218,Forecast successful
+Wh-4,SKU-181,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-182,0.7979512321184082,Forecast successful
+Wh-4,SKU-183,0.12203009410887411,Forecast successful
+Wh-4,SKU-184,0.12641010703533967,Forecast successful
+Wh-4,SKU-185,0.417103509535175,Forecast successful
+Wh-4,SKU-186,0.9898611782162128,Forecast successful
+Wh-4,SKU-187,0.11140277461222729,Forecast successful
+Wh-4,SKU-188,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-189,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-19,0.21141244292914924,Forecast successful
+Wh-4,SKU-190,0.7246428473029873,Forecast successful
+Wh-4,SKU-191,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-192,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-193,0.24221339713068266,Forecast successful
+Wh-4,SKU-194,1.1960344439632902,Forecast successful
+Wh-4,SKU-195,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-196,0.6012146949360763,Forecast successful
+Wh-4,SKU-197,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-198,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-199,1.3354047554075492,Forecast successful
+Wh-4,SKU-2,1.2486458430710967,Forecast successful
+Wh-4,SKU-20,0.2028119549434504,Forecast successful
+Wh-4,SKU-200,0.16981821054948745,Forecast successful
+Wh-4,SKU-201,0.2651665083461337,Forecast successful
+Wh-4,SKU-202,0.17268283505920043,Forecast successful
+Wh-4,SKU-203,1.2121902873131467,Forecast successful
+Wh-4,SKU-204,0.168316146391569,Forecast successful
+Wh-4,SKU-205,0.2299444209989975,Forecast successful
+Wh-4,SKU-206,3.4953098188105356,Forecast successful
+Wh-4,SKU-207,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-208,0.3272766141601481,Forecast successful
+Wh-4,SKU-209,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-21,0.4629669134786479,Forecast successful
+Wh-4,SKU-210,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-211,1.7804682810176267,Forecast successful
+Wh-4,SKU-212,0.2142155892820934,Forecast successful
+Wh-4,SKU-213,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-214,5.9912061748551455,Forecast successful
+Wh-4,SKU-215,2.4901378120006235,Forecast successful
+Wh-4,SKU-216,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-217,0.8382888213348417,Forecast successful
+Wh-4,SKU-218,7.230337276935319,Forecast successful
+Wh-4,SKU-219,1.1880823328974273,Forecast successful
+Wh-4,SKU-22,0.21535262653450804,Forecast successful
+Wh-4,SKU-220,0.6881946628417136,Forecast successful
+Wh-4,SKU-221,0.7841621567246534,Forecast successful
+Wh-4,SKU-222,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-223,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-224,1.6860880722231462,Forecast successful
+Wh-4,SKU-225,1.1648442511319026,Forecast successful
+Wh-4,SKU-226,2.9363886887771713,Forecast successful
+Wh-4,SKU-227,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-228,0.20940327424007243,Forecast successful
+Wh-4,SKU-229,1.9336969856496877,Forecast successful
+Wh-4,SKU-23,0.17782705920871614,Forecast successful
+Wh-4,SKU-230,1.2899975303760496,Forecast successful
+Wh-4,SKU-231,0.5884952353301031,Forecast successful
+Wh-4,SKU-232,0.4953522893149185,Forecast successful
+Wh-4,SKU-233,1.772810281083606,Forecast successful
+Wh-4,SKU-24,1.7678510532194642,Forecast successful
+Wh-4,SKU-25,2.9467066250318585,Forecast successful
+Wh-4,SKU-26,0.23760532931124564,Forecast successful
+Wh-4,SKU-27,0.2943554954149188,Forecast successful
+Wh-4,SKU-28,0.5761637715250398,Forecast successful
+Wh-4,SKU-29,0.711570173661841,Forecast successful
+Wh-4,SKU-3,0.1049309731180581,Forecast successful
+Wh-4,SKU-30,7.745328083589558,Forecast successful
+Wh-4,SKU-31,0.6836931133197295,Forecast successful
+Wh-4,SKU-32,1.8419904634426898,Forecast successful
+Wh-4,SKU-33,0.33270548136576705,Forecast successful
+Wh-4,SKU-34,1.6294332882219995,Forecast successful
+Wh-4,SKU-35,0.3214066514142479,Forecast successful
+Wh-4,SKU-36,0.26827356513666883,Forecast successful
+Wh-4,SKU-37,3.622219517378472,Forecast successful
+Wh-4,SKU-38,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-39,1.5212592930342608,Forecast successful
+Wh-4,SKU-4,2.4737408710166213,Forecast successful
+Wh-4,SKU-40,5.714244160607852,Forecast successful
+Wh-4,SKU-41,1.5369136040274498,Forecast successful
+Wh-4,SKU-42,0.32420595192186397,Forecast successful
+Wh-4,SKU-43,1.8681286909869657,Forecast successful
+Wh-4,SKU-44,0.2717427197988842,Forecast successful
+Wh-4,SKU-45,3.338367144259937,Forecast successful
+Wh-4,SKU-46,1.1110517597463037,Forecast successful
+Wh-4,SKU-47,2.263569503454028,Forecast successful
+Wh-4,SKU-48,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-49,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-5,1.5300511059850603,Forecast successful
+Wh-4,SKU-50,1.156295665991717,Forecast successful
+Wh-4,SKU-51,1.9057806870524197,Forecast successful
+Wh-4,SKU-52,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-53,1.641853133317991,Forecast successful
+Wh-4,SKU-54,1.3410415082941165,Forecast successful
+Wh-4,SKU-55,0.321370454651115,Forecast successful
+Wh-4,SKU-56,1.125057542390388,Forecast successful
+Wh-4,SKU-57,0.2332364592709274,Forecast successful
+Wh-4,SKU-58,0.2494729275264507,Forecast successful
+Wh-4,SKU-59,2.2502506721011186,Forecast successful
+Wh-4,SKU-6,2.010146173917204,Forecast successful
+Wh-4,SKU-60,8.007294856535006,Forecast successful
+Wh-4,SKU-61,18.371492087831196,Forecast successful
+Wh-4,SKU-62,0.8561126534612327,Forecast successful
+Wh-4,SKU-63,0.8638490315314702,Forecast successful
+Wh-4,SKU-64,1.5727516424252186,Forecast successful
+Wh-4,SKU-65,1.0070149368158787,Forecast successful
+Wh-4,SKU-66,0.237761915967733,Forecast successful
+Wh-4,SKU-67,0.4706017748199388,Forecast successful
+Wh-4,SKU-68,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-69,0.8181471842439036,Forecast successful
+Wh-4,SKU-7,9.665508643790542,Forecast successful
+Wh-4,SKU-70,0.7997258771108979,Forecast successful
+Wh-4,SKU-71,0.6896186940125709,Forecast successful
+Wh-4,SKU-72,0.9216419815906012,Forecast successful
+Wh-4,SKU-73,0.3244616357934477,Forecast successful
+Wh-4,SKU-74,0.2435238644237472,Forecast successful
+Wh-4,SKU-75,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-76,0.16480647372837484,Forecast successful
+Wh-4,SKU-77,1.0387753421635801,Forecast successful
+Wh-4,SKU-78,1.1995097664326972,Forecast successful
+Wh-4,SKU-79,1.2674277296522718,Forecast successful
+Wh-4,SKU-8,4.778366506530197,Forecast successful
+Wh-4,SKU-80,3.026977709915949,Forecast successful
+Wh-4,SKU-81,2.2264316277325396,Forecast successful
+Wh-4,SKU-82,2.3280812031551776,Forecast successful
+Wh-4,SKU-83,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-84,0.6177186884176179,Forecast successful
+Wh-4,SKU-85,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-86,0.6267191926428634,Forecast successful
+Wh-4,SKU-87,0.10774590892998633,Forecast successful
+Wh-4,SKU-88,7.026122135972971,Forecast successful
+Wh-4,SKU-89,0.7748617552601916,Forecast successful
+Wh-4,SKU-9,1.360520330409561,Forecast successful
+Wh-4,SKU-90,1.6865529544839657,Forecast successful
+Wh-4,SKU-91,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-92,2.0793990302410505,Forecast successful
+Wh-4,SKU-93,1.476727348515213,Forecast successful
+Wh-4,SKU-94,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-95,1.5048650130751409,Forecast successful
+Wh-4,SKU-96,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-97,7.271275245357343,Forecast successful
+Wh-4,SKU-98,1.5649519068354538,Forecast successful
+Wh-4,SKU-99,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-234,0.48358898857598,Forecast successful
+Wh-4,SKU-237,5.036975312100555,Forecast successful
+Wh-4,SKU-239,2.1832343315325757,Forecast successful
+Wh-4,SKU-240,1.131653893385633,Forecast successful
+Wh-4,SKU-244,0.4512901714846034,Forecast successful
+Wh-4,SKU-248,1.1791484011007751,Forecast successful
+Wh-4,SKU-250,0.9030013365529633,Forecast successful
+Wh-4,SKU-251,2.1430871459602923,Forecast successful
+Wh-4,SKU-257,1.1337996375959294,Forecast successful
+Wh-4,SKU-258,2.418472598182609,Forecast successful
+Wh-4,SKU-259,0.17529385845884696,Forecast successful
+Wh-4,SKU-260,1.0243794733322114,Forecast successful
+Wh-4,SKU-261,0.24935024621912047,Forecast successful
+Wh-4,SKU-262,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-263,2.2495032505618786,Forecast successful
+Wh-4,SKU-264,14.901955830464047,Forecast successful
+Wh-4,SKU-265,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-267,3.02208042389656,Forecast successful
+Wh-4,SKU-268,6.167233364868495,Forecast successful
+Wh-4,SKU-269,1.7224164420898649,Forecast successful
+Wh-4,SKU-270,4.621436301763695,Forecast successful
+Wh-4,SKU-271,15.171595748542778,Forecast successful
+Wh-4,SKU-272,2.7321707017603725,Forecast successful
+Wh-4,SKU-275,1.948684643534561,Forecast successful
+Wh-4,SKU-276,0.9379006410346831,Forecast successful
+Wh-4,SKU-278,1.8754373197537793,Forecast successful
+Wh-4,SKU-287,1.3151429782168649,Forecast successful
+Wh-4,SKU-288,1.1402782881086235,Forecast successful
+Wh-4,SKU-289,2.302875095566348,Forecast successful
+Wh-4,SKU-291,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-292,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-293,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-297,0.9065288860570945,Forecast successful
+Wh-4,SKU-306,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-312,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-315,0.20438724174585154,Forecast successful
+Wh-4,SKU-316,0.11805600803092398,Forecast successful
+Wh-4,SKU-319,0.4422300693096226,Forecast successful
+Wh-4,SKU-321,0.6854540045944535,Forecast successful
+Wh-4,SKU-322,1.0503786955827745,Forecast successful
+Wh-4,SKU-328,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-329,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-330,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-332,3.117332185228456,Forecast successful
+Wh-4,SKU-337,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-338,0.5168226744920679,Forecast successful
+Wh-4,SKU-339,1.7809784254118974,Forecast successful
+Wh-4,SKU-340,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-342,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-343,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-344,0.22427622737896727,Forecast successful
+Wh-4,SKU-345,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-352,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-359,2.8344648905268497,Forecast successful
+Wh-4,SKU-361,8.992666150791267,Forecast successful
+Wh-4,SKU-386,9.087781289352174,Forecast successful
+Wh-4,SKU-387,5.130729578109516,Forecast successful
+Wh-4,SKU-389,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-392,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-399,0.16949284687591107,Forecast successful
+Wh-4,SKU-403,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-404,1.6604914439947775,Forecast successful
+Wh-4,SKU-405,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-406,1.619000104526459,Forecast successful
+Wh-4,SKU-407,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-408,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-409,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-410,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-411,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-412,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-413,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-414,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-415,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-236,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-241,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-243,1.025900221398114,Forecast successful
+Wh-4,SKU-252,3.726602175354828,Forecast successful
+Wh-4,SKU-253,32.027590634333386,Forecast successful
+Wh-4,SKU-254,2.1396897167093356,Forecast successful
+Wh-4,SKU-255,1.0311932321545356,Forecast successful
+Wh-4,SKU-256,2.402675499745728,Forecast successful
+Wh-4,SKU-266,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-273,1.1379514973306228,Forecast successful
+Wh-4,SKU-274,1.5609265964884995,Forecast successful
+Wh-4,SKU-277,1.2768669651720017,Forecast successful
+Wh-4,SKU-279,1.7295083250663077,Forecast successful
+Wh-4,SKU-280,0.5139558761739541,Forecast successful
+Wh-4,SKU-281,0.16445892015816146,Forecast successful
+Wh-4,SKU-282,0.6261655017166708,Forecast successful
+Wh-4,SKU-283,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-284,1.4097249014800601,Forecast successful
+Wh-4,SKU-285,0.2620679194397266,Forecast successful
+Wh-4,SKU-290,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-299,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-300,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-301,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-302,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-314,0.47576805737995737,Forecast successful
+Wh-4,SKU-317,3.8358871529554865,Forecast successful
+Wh-4,SKU-318,0.170790263968777,Forecast successful
+Wh-4,SKU-320,0.3093414020304681,Forecast successful
+Wh-4,SKU-323,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-324,2.8124401432094146,Forecast successful
+Wh-4,SKU-325,1.657485855764714,Forecast successful
+Wh-4,SKU-326,26.153236854381387,Forecast successful
+Wh-4,SKU-327,0.30083904051388166,Forecast successful
+Wh-4,SKU-331,1.0709560356163557,Forecast successful
+Wh-4,SKU-341,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-350,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-351,0.1858470302460648,Forecast successful
+Wh-4,SKU-353,0.21713376961070213,Forecast successful
+Wh-4,SKU-354,1.5017109350356226,Forecast successful
+Wh-4,SKU-355,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-356,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-357,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-358,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-360,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-362,1.3727697585047596,Forecast successful
+Wh-4,SKU-363,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-364,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-365,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-366,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-367,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-368,1.5546618063413258,Forecast successful
+Wh-4,SKU-369,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-370,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-371,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-372,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-373,0.1755490333850126,Forecast successful
+Wh-4,SKU-374,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-375,0.2923436707043016,Forecast successful
+Wh-4,SKU-376,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-377,0.3884301654697757,Forecast successful
+Wh-4,SKU-378,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-379,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-380,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-381,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-382,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-383,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-384,0.8979967867028317,Forecast successful
+Wh-4,SKU-385,3.563527263509522,Forecast successful
+Wh-4,SKU-388,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-390,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-391,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-393,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-394,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-395,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-396,0.4840086760044068,Forecast successful
+Wh-4,SKU-397,5.1108079907579365,Forecast successful
+Wh-4,SKU-398,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-400,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-401,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-402,,No data available for this SKU-Warehouse combination.
+Wh-4,SKU-245,1.5603432425683785,Forecast successful
+Wh-4,SKU-246,0.7718614758244352,Forecast successful
+Wh-4,SKU-286,1.3295442866036862,Forecast successful
+Wh-4,SKU-416,6.714300838816958,Forecast successful
+Wh-4,SKU-417,0.519851738917977,Forecast successful
+Wh-4,SKU-418,0.22827404092176437,Forecast successful
+Wh-4,SKU-419,0.8917808631610209,Forecast successful
+Wh-4,SKU-420,0.4927389659632978,Forecast successful
+Wh-4,SKU-421,0.1735408262836294,Forecast successful
+Wh-4,SKU-422,5.154613782387336,Forecast successful
+Wh-4,SKU-423,0.47286737152353997,Forecast successful
+Wh-4,SKU-424,0.2731671992808301,Forecast successful
+Wh-4,SKU-425,0.2825881200565011,Forecast successful
+Wh-4,SKU-426,0.32030358358976674,Forecast successful
+Wh-4,SKU-427,0.9906034948426099,Forecast successful
+Wh-4,SKU-428,3.503905471388555,Forecast successful
+Wh-4,SKU-429,1.7454143236121435,Forecast successful
+Wh-4,SKU-430,1.0341437670466842,Forecast successful
+Wh-4,SKU-431,0.6209927545046643,Forecast successful
+Wh-4,SKU-432,0.2048429846015487,Forecast successful
+Wh-4,SKU-433,0.0651967864512891,Forecast successful
+Wh-4,SKU-434,0.11238593882781016,Forecast successful
